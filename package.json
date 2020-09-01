@@ -1,0 +1,23 @@
+{
+  "name": "open-authentication",
+  "version": "0.1.0",
+  "description": "A personal project for signup only",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongodb": "^3.5.9",
+    "mongoose": "^5.9.25"
+  },
+  "engines": {
+    "node": "10.17.0"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "express"
+  ]
+}
